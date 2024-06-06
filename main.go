@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
+	"github.com/rupeshdev18/my-crud-app/handlers"
 	"log"
-	"my-crud-app/handlers"
 	"net/http"
 
 	"github.com/gorilla/mux"

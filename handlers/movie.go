@@ -2,8 +2,8 @@ package handlers
 
 import (
 	"encoding/json"
+	"github.com/rupeshdev18/my-crud-app/models"
 	"math/rand"
-	"my-crud-app/models"
 	"net/http"
 	"strconv"
 
